@@ -15,5 +15,5 @@ void CDonateScreen::onButtonPress(QString buttonName) {
     if (buttonName == "quit")
         exit(0);
     if (buttonName == "donate")
-        QDesktopServices::openUrl(QUrl("https://hyprland.org/support"));
+        QDesktopServices::openUrl(QUrl("https://account.hypr.land/pricing"));
 }

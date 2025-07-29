@@ -62,7 +62,7 @@ ApplicationWindow {
 
         Text {
             color: system.windowText
-            text: "Hyprland is maintained by volunteers, and led by one person in their free time.<br/>Your support is valuable, and helps fund Hyprland's continued existence.<br/><br/>You can donate once, or monthly, and it takes less than 5 minutes."
+            text: "Hyprland is maintained by volunteers, and led by one person in their free time.<br/>Your support is valuable, and helps fund Hyprland's continued existence.<br/><br/>You can donate once, or monthly, and it takes less than 5 minutes.<br/>We also have Hyprperks, which is 5€ + tax / mo, and gives you access to a few \"Thank you\" goodies from us."
             Layout.alignment: Qt.AlignHCenter
             horizontalAlignment: Text.AlignHCenter
             textFormat: TextEdit.RichText
